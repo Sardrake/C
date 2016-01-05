@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1451946036 source:/home/arnaud/Documents/dev/C/Nombre Mystere/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

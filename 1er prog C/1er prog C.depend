@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1451409750 source:/home/arnaud/Documents/dev/C/1er prog C/main.c
+	<stdio.h>
+	<stdlib.h>
+
